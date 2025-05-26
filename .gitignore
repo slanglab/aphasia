@@ -172,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+MCGenerator/clustering_results/narrasum/results/clustered_mcs_topthreeprompts_run2.pickle
