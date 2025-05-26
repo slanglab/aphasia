@@ -8,7 +8,23 @@
 This is the official repository for our paper: Automated main concept generation for
 narrative discourse assessment in aphasia. This repository contains code to reproduce the modeling experiments discussed in our paper.
 
-An earlier version of this work was presented at the Clinical Aphasiology Conference 2025. The conference abstract is available in the ```CAC2025``` directory.
+An earlier version of this work was presented at the Clinical Aphasiology Conference 2025. The abstract is available in the ```CAC2025``` directory.
 
 
+### Set up
 
+Follow these instructions to set up the repository.
+
+```
+git clone https://github.com/gnkitaa/aphasia-narrative.git
+cd aphasia-narrative
+
+conda create -y --name aphasia python=3.9
+conda activate aphasia
+pip install -r requirements.txt
+
+git clone https://github.com/openai/openai-cookbook.git
+```
+
+### MC generation 
+To generate main concepts run ```MCGenerator/generate_mcs_bats.ipynb``` for BATS dataset and ```MCGenerator/generate_mcs_narrasum.ipynb``` for narrasum dataset (<a href="https://aclanthology.org/2022.findings-emnlp.14/">Zhao et al., 2022</a>).
