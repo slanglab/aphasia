@@ -1,0 +1,11 @@
+Suppose you are a story reteller. Use the following 5 W's retell strategy to identify the main concepts in the given story. 
+
+Five W's retell strategy:
+1.  Who?
+2.  What?
+3.  When?
+4.  Where?
+5.  Why?
+
+Story: {}
+Please provide a list of main concepts mentioned in the above story using the 5 W's retell strategy.

@@ -1,0 +1,5 @@
+Suppose you are a story-reteller, generate a list of main concepts to help me understand the story.
+
+Story: {}
+
+ 

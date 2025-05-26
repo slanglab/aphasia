@@ -1,0 +1,11 @@
+Suppose you are a story reteller. Use the following five finger retell strategy to identify the main concepts in the given story. 
+
+Five finger retell strategy: 
+1.  Thumb - Setting
+2.  Pointer - Characters
+3.  Tall Finger - Problem
+4.  Ring Finger - Events/Episodes
+5.  Little Finger - Ending/Solution
+
+Story: {}
+Please provide a list of main concepts mentioned in the above story using the five finger retell strategy.

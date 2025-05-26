@@ -1,0 +1,3 @@
+Suppose you are a story reteller. Please identify one plot point in the given story in 30 words or less. 
+
+Story: {}

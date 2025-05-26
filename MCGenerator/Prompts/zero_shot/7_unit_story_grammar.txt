@@ -1,0 +1,13 @@
+Suppose you are a story reteller. Use the following 7-unit story grammar to identify the main concepts in the given story. 
+
+7-unit story grammar: 
+1. Setting
+2. Characters in the story
+3. Initiating Event [IE] -- event that sets off the story's events -- will cause the protagonist to respond in some way, evokes an immediate response
+4. Internal Response [IR] -- reaction of protagonist to the initiating event. It can be expressed in dialogue, e.g., oh no! expresses an internal response 
+5. Internal Plan [IP] of protagonist to deal with the IE
+6. Attempt [ATT] to obtain the goal
+7. Outcome or Consequence of the attempt
+
+Story: {}
+Please provide a list of main concepts mentioned in the above story using the 7-unit story grammar.
