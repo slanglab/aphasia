@@ -3,9 +3,10 @@
 [![poster](https://img.shields.io/badge/Link%20to-poster-you_like?logoColor=blue&color=orange)](https://docs.google.com/presentation/d/1cyZt2GJBX3EBr_F2UbjBdgs0R4rTCLonFFYPHG-GUyE/edit?usp=sharing)
 
 
-This is the official repository for our paper, Automated main concept generation for
+This is the official repository for our paper: Automated main concept generation for
 narrative discourse assessment in aphasia. This repository contains code to reproduce the modeling experiments discussed in our paper.
 
+A preliminary version of this work was also presented at Clinical Aphasiology Conference 2025. The abstract can be found in the folder ```CAC 2025```.
 
 
 ### Citation Information
