@@ -26,8 +26,16 @@ pip install -r requirements.txt
 git clone https://github.com/openai/openai-cookbook.git
 ```
 
+### Datasets
+- We release a novel BATS dataset, containing narratives with human-annotated main concepts, which are empirically
+derived through extensive analysis of hundreds of story retellings from healthy participants (Kurland et al.,
+2021; Richardson and Dalton, 2016, 2020) and have been used to assess patients with aphasia (Kurland et al., 2024b). The dataset is provided under ```data/BATS``` directory.
+
+
+- We also evaluate our method on an existing narrative summarization dataset (Zhao et al., 2022). Please refer to [NarraSum](https://aclanthology.org/2022.findings-emnlp.14/) for more details.
+
 ### MC generation 
-To generate main concepts run ```MCGenerator/generate_mcs_bats.ipynb``` for BATS dataset and ```MCGenerator/generate_mcs_narrasum.ipynb``` for narrasum dataset (<a href="https://aclanthology.org/2022.findings-emnlp.14/">Zhao et al., 2022</a>). 
+To generate main concepts run ```MCGenerator/generate_mcs_bats.ipynb``` for BATS dataset and ```MCGenerator/generate_mcs_narrasum.ipynb``` for narrasum dataset. 
 
 Different prompts used for MC generation are provided in ```MCGenerator/Prompts``` directory.
 
