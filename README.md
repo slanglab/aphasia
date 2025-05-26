@@ -8,16 +8,7 @@
 This is the official repository for our paper: Automated main concept generation for
 narrative discourse assessment in aphasia. This repository contains code to reproduce the modeling experiments discussed in our paper.
 
-A preliminary version of this work was also presented at Clinical Aphasiology Conference 2025. The abstract can be found in the folder ```CAC 2025```.
+A preliminary version of this work was also presented at the Clinical Aphasiology Conference 2025. The abstract can be found in the folder ```CAC 2025```.
 
 
-### Citation Information
-If you use our work, please cite it as follows:
-```
-@inproceedings{gupta-etal-2025-aphasia,
-    title = "Automated main concept generation for narrative discourse assessment in aphasia",
-    author = "Gupta, Ankita  and Hudspeth, Marisa and Kurland, Jacquie and O{'}Connor, Brendan",
-    booktitle = "Forthcoming in ACL (Findings)",
-    year = "2025"
-}
-```
+
