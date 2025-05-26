@@ -27,4 +27,12 @@ git clone https://github.com/openai/openai-cookbook.git
 ```
 
 ### MC generation 
-To generate main concepts run ```MCGenerator/generate_mcs_bats.ipynb``` for BATS dataset and ```MCGenerator/generate_mcs_narrasum.ipynb``` for narrasum dataset (<a href="https://aclanthology.org/2022.findings-emnlp.14/">Zhao et al., 2022</a>).
+To generate main concepts run ```MCGenerator/generate_mcs_bats.ipynb``` for BATS dataset and ```MCGenerator/generate_mcs_narrasum.ipynb``` for narrasum dataset (<a href="https://aclanthology.org/2022.findings-emnlp.14/">Zhao et al., 2022</a>). 
+
+Different prompts used for MC generation are provided in ```MCGenerator/Prompts``` directory.
+
+### Semantic deduplication
+To cluster main concepts that are similar in meaning, run ```MCGenerator/clustering_bats.ipynb``` for BATS dataset and ```MCGenerator/clustering_narrasum.ipynb``` for narrasum dataset.
+
+### MC evaluation
+To evaluate the generated main concepts, run ```MCEvaluator/evaluate_bats.ipynb``` for BATS dataset and ```MCEvaluator/evaluate_narrasum.ipynb``` for narrasum dataset. The notebooks also plot the recall versus yield tradeoff curves discussed in the paper.
